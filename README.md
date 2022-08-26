@@ -1,1 +1,2 @@
 # Odin-Recipes
+The current project is to create a recipe website, with the new skills I have learned on the Odin Project. I will be demonstrating the fundamentals of HTML, with the goal being a well thought out script. This script should be easy to read and edit for other developers.
